@@ -1,5 +1,9 @@
 # 7-Completely-FREE-Data-Analytics-Online-Courses
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
+![Use](https://img.shields.io/badge/Use-Non--Commercial%20Only-critical)
+
 
 7 Completely FREE Data Analytics Online Courses!
 
@@ -55,3 +59,8 @@ Best For-Intermediate
 Happy Learning!
 
 Join my telegram for the jobs update and Notes : https://t.me/CodeNoteBook
+
+---
+
+# 📜 License
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
